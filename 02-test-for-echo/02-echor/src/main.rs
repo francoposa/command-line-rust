@@ -2,7 +2,7 @@ use clap::{App, Arg};
 
 fn main() {
     let matches = App::new("echor")
-        .version("0.1.0a1")
+        .version("0.1.0a0")
         .author("francoposa <franco@francoposa.io>")
         .about("rust echo")
         .arg(
